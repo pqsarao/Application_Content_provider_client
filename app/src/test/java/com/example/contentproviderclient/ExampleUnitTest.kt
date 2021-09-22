@@ -1,4 +1,4 @@
-package com.example.applicationcontentproviderclient
+package com.example.contentproviderclient
 
 import org.junit.Test
 

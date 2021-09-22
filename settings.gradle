@@ -6,5 +6,5 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "Application Content Provider Client"
+rootProject.name = "Content Provider Client"
 include ':app'
